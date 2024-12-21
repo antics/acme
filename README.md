@@ -19,7 +19,7 @@ Acme with Emacs keys for navigation and win/mac keys for undo/cut/copy/paste.
 | C-l     | tab completion |
 
 ## Dependencies
-You need to install [https://github.com/9fans/plan9port](plan9port) to compile and run the code.
+You need to install [plan9port](https://github.com/9fans/plan9port) to compile and run the code.
 
 ## Installation
 ```
